@@ -1,5 +1,7 @@
 <template>
-  <input name="searchbar" id="searchbar" placeholder="Rechercher une enseigne...">
+    <div class="search">
+        <input name="searchbar" id="searchbar" placeholder="Rechercher une enseigne...">
+    </div>
 </template>
 
 <script>
@@ -9,10 +11,17 @@ export default {
 </script>
 
 <style>
+
+.search {
+    width: 100%;
+    position: absolute;
+    margin: 70px auto;
+    
+}
     #searchbar {
         height: 50px;
         width: 90%;
-        color: blue;
+        top: 0px;
         padding-left: 10px;
         border: 1px solid #424BB3;
         border-radius: 15px;
