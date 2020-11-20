@@ -11,7 +11,7 @@
 
 <script>
 import BaseMap from "@/components/VueMapbox.vue";
-import SearchBar from "@/components/Search.component.vue";
+import SearchBar from "@/components/Search.vue";
 export default {
   components: {
     SearchBar,

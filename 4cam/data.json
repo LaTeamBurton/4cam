@@ -1,0 +1,94 @@
+{
+  "markets": [
+    {
+      "nom": "Société Générale",
+      "adresse": "2 Avenue de la Gare",
+      "nbpersonnes": 5,
+      "coord": {
+        "latitude": 44.802195,
+        "longitude": 3.275521
+      }
+    },
+    {
+      "nom": "Hermet Boutique",
+      "adresse": "72 Rue Théophile Roussel",
+      "nbpersonnes": 7,
+      "coord": {
+        "latitude": 44.801645,
+        "longitude": 3.275606
+      }
+    },
+    {
+      "nom": "Giral Motoculture",
+      "adresse": "19 Rue de la Chicane",
+      "nbpersonnes": 7,
+      "coord": {
+        "latitude": 44.804375,
+        "longitude": 3.278516
+      }
+    },
+    {
+      "nom": "Mairie",
+      "adresse": "67 Rue Théophile Roussel",
+      "nbpersonnes": 25,
+      "coord": {
+        "latitude": 44.801723,
+        "longitude": 3.275438
+      }
+    },
+    {
+      "nom": "La Poste",
+      "adresse": "Place du Foirail",
+      "nbpersonnes": 3,
+      "coord": {
+        "latitude": 44.803076,
+        "longitude": 3.276593
+      }
+    },
+    {
+      "nom": "Pharmacie Prouhèze",
+      "adresse": "35 Rue Théophile Roussel",
+      "nbpersonnes": 4,
+      "coord": {
+        "latitude": 44.800653,
+        "longitude": 3.275440
+      }
+    },
+    {
+      "nom": "Gendarmerie Nationale",
+      "adresse": "49 Rue Dr Yves Dalle",
+      "nbpersonnes": 9,
+      "coord": {
+        "latitude": 44.803076,
+        "longitude": 3.273771
+      }
+    },
+    {
+      "nom": "Passion Vélo",
+      "adresse": "42 Avenue de la République",
+      "nbpersonnes": 2,
+      "coord": {
+        "latitude": 44.807523,
+        "longitude": 3.276593
+      }
+    },
+    {
+      "nom": "Oxylab",
+      "adresse": "8 Place du Toural",
+      "nbpersonnes": 18,
+      "coord": {
+        "latitude": 44.802532,
+        "longitude": 3.275035
+      }
+    },
+    {
+      "nom": "Médiathèque Théophile Roussel",
+      "adresse": "Place du Foirail",
+      "nbpersonnes": 12,
+      "coord": {
+        "latitude": 44.801838,
+        "longitude": 3.277796
+      }
+    }
+  ]
+}

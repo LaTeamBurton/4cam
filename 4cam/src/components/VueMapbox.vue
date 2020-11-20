@@ -18,7 +18,7 @@ export default {
     new mapboxgl.Map({
       container: "mapContainer",
       style: "mapbox://styles/loannbenoit/ckhnkq1ec0yba19qju76o7flz",
-      center: [3.389167,44.781944],
+      center: [3.275547,44.801722],
       zoom: 15,
       pitch: 60,
     });
